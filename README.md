@@ -5,6 +5,6 @@
 - GPT4All (Data model required, available on https://gpt4all.io/index.html -> Model explorer). Model should be put in the same location as dockerfile and named "data_model.bin"
 
 <h3>How to use it</h3>
-1. Build docker image (docker build -t ai_prompter .)
-2. Run docker image (docker run -i ai_prompter)
-3. Enter prompt
+- Build docker image (docker build -t ai_prompter .)
+- Run docker image (docker run -i ai_prompter)
+- Enter prompt
