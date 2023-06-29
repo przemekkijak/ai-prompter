@@ -6,8 +6,6 @@
 </span>
 
 <h3>How to use it</h3>
-<span>
-- Build docker image (docker build -t ai_prompter .)
-- Run docker image (docker run -i ai_prompter)
-- Enter prompt
-</span>
+<p> - Build docker image (docker build -t ai_prompter .) </p>
+<p> - Run docker image (docker run -i ai_prompter) </p>
+<p> - Enter prompt </p>
